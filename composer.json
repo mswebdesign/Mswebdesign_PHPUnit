@@ -1,0 +1,14 @@
+{
+    "name":"mswebdesign/Mswebdesign_PHPUnit",
+    "license":"OSL-3.0",
+    "type":"magento-module",
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*",
+        "ivanchepurnyi/ecomdev_phpunit":"*"
+    },
+    "authors":[
+        {
+            "name":"Christian Grugel"
+        }
+    ]
+}
